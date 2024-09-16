@@ -1,0 +1,9 @@
+random
+numpy
+pandas
+torch
+torchvision
+easyocr
+requests
+pillow
+opencv-python
